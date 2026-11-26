@@ -74,7 +74,7 @@ A plataforma hoje:
 ## 🎬 Demonstração
 
 <p align="center">
-  <img src="./public/logo.jpg" alt="EletroGestão" width="400">
+  <img src="./screenshot.png" alt="Demonstração do EletroGestão" width="900">
 </p>
 
 <div style="display:flex;gap:14px;border-left:4px solid hsl(224 75% 50%);padding:12px 16px;border-radius:6px;background:transparent;align-items:flex-start">
